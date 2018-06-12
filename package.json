@@ -1,0 +1,23 @@
+{
+  "name": "node-rest-shop",
+  "version": "1.0.0",
+  "description": "A node.js REST ful API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "RESTful",
+    "API"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GauravPanwar100/node-rest-api"
+  },
+  "author": "Gaurav Panwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
